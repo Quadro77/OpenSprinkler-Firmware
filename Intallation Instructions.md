@@ -11,6 +11,7 @@ cd ~
 git clone --recurse-submodules https://github.com/Quadro77/OpenSprinkler-Firmware.git
 
 *Below is the original, The one above is forked.
+
 git clone --recurse-submodules https://github.com/OpenSprinkler/OpenSprinkler-Firmware.git*
 
  **### Change the directory to the firmware folder: ###**
