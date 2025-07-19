@@ -10,7 +10,7 @@ sudo apt-get install git
 cd ~
 git clone --recurse-submodules https://github.com/OpenSprinkler/OpenSprinkler-Firmware.git
 
-### Change the directory to the firmware folder: ###
+ **### Change the directory to the firmware folder: ###**
 cd OpenSprinkler-Firmware
 
 ### Build OpenSprinkler: ###
